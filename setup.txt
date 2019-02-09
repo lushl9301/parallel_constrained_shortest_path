@@ -10,13 +10,13 @@ Dimension: 2
 
 The following five values are used for generating a new random graph that will be stored in file newRandomGraph.txt
 
-Dimension of the new graph: 2 
+Dimension of the new graph: 1
 
 Max time: 5
 
 Max cost: 8
 
-n: 100
+n: 10
 
 boundary vertex cost: 150
 
